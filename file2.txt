@@ -1,2 +1,3 @@
 new file
 updated for feature2
+***this is new and is not in local repo***
